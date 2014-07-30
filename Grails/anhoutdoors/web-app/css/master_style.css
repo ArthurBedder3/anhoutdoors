@@ -1,0 +1,121 @@
+#mainmenu
+	 {
+	  width: 750;
+	  line-height: 1.5em;
+	  background-color: #AACCEE;
+	  font-size: 19;
+	 }
+
+#mainmenu a
+	{
+	 color: #2F4F4F;
+	 font-size: 19;
+	}
+	 
+#mainmenu a:hover
+	 {
+	  color: black;
+	  background-color: white;
+	 }
+	 
+#mainmenu table {
+    border: 0px;
+    width: 100%;
+}
+
+#mainmenu td {
+	height: 20px;
+    padding: 5px;
+}
+	 
+
+#menu
+	 {
+	  width: 750;
+	  line-height: 1.5em;
+	  background-color: #AACCEE;
+	  font-size: 19;
+	 }
+
+#menu a
+	{
+	 color: #2F4F4F;
+	 font-size: 19;
+	}
+	 
+#menu a:hover
+	 {
+	  color: black;
+	  background-color: white;
+	 }
+	 
+#currentMenu
+	{
+	  font-size: 19;
+	  background-color: #6699CC;
+	}
+
+#currentMenu a
+	{
+	 color: white;
+	 font-size: 19;
+	}
+	 
+#footer
+	 {
+	  width:750px;
+	  line-height: 2em;
+	  background-color: #AACCEE;
+	  text-align: right;
+	  font-size: 15;
+	 }
+
+#copyright
+	 {
+	  width:750px;
+	  line-height: 2em;
+	  background-color: #AACCEE;
+	  text-align: right;
+	  font-size: 15;
+	 }
+
+body
+	 {
+	  background-color: #FFFFCC;
+	  align: center;
+	 }
+
+#body_style1
+	 {
+	  background-color: #FFFFCC;
+	  font-size: 19;
+	 }
+
+#body_style2
+	 {
+	  Text-align: center;
+	  background-color: #AACCEE;
+	  font-size: 19;
+	 }
+
+#body_style3
+	 {
+	  float: left;
+	  Text-align: center;
+	  background-color: #FFFFCC;
+	  font-size: 19;
+	 }
+
+#blue_h1
+	{
+	 color: blue;
+	}
+#green_h1
+	{
+	 color: green;
+	}
+#red
+	{
+	 color: red;
+	}
+
